@@ -1,4 +1,6 @@
-package model;
+package runner;
+
+import model.GestorArchivo;
 
 public class Archivo {
 
